@@ -1,0 +1,7 @@
+C:\Users\lab_services_student\Desktop\Prog6221_IceTask2\CourseStudent\bin\Debug\CourseStudent.exe.config
+C:\Users\lab_services_student\Desktop\Prog6221_IceTask2\CourseStudent\bin\Debug\CourseStudent.exe
+C:\Users\lab_services_student\Desktop\Prog6221_IceTask2\CourseStudent\bin\Debug\CourseStudent.pdb
+C:\Users\lab_services_student\Desktop\Prog6221_IceTask2\CourseStudent\obj\Debug\CourseStudent.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\Desktop\Prog6221_IceTask2\CourseStudent\obj\Debug\CourseStudent.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Desktop\Prog6221_IceTask2\CourseStudent\obj\Debug\CourseStudent.exe
+C:\Users\lab_services_student\Desktop\Prog6221_IceTask2\CourseStudent\obj\Debug\CourseStudent.pdb
